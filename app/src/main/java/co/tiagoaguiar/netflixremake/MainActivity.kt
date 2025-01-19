@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity(), CategoryTask.Callback {
         rv.layoutManager = LinearLayoutManager(this)
         rv.adapter = adapter
 
-        CategoryTask(this).execute("https://atway.tiagoaguiar.co/fenix/netflixapp/home?apiKey=788dbd05-16e3-4b4e-9cd7-633c87eaa128")
+        CategoryTask(this).execute("")
     }
 
     override fun onPreExecute() {
