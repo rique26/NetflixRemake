@@ -1,4 +1,4 @@
-O NetflixRemake é um aplicativo Android desenvolvido durante o curso Treinamento Android Express.<br><br>
+NetflixRemake .<br><br>
 O objetivo deste projeto foi aprender e aplicar conceitos de prototipagem, modelagem de dados, comunicação com servidores e consumo de APIs, além de trabalhar com layouts avançados e design de interfaces.
 
 <br>Aprendizados:
