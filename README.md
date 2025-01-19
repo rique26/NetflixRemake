@@ -13,8 +13,8 @@ O objetivo deste projeto foi aprender e aplicar conceitos de prototipagem, model
 
 
 <p align="center">
-  <img src="https://github.com/rique26/NetflixRemake/blob/main/netflix01.jpg" alt="Tela 1" width="300">
-  <img src="https://github.com/rique26/NetflixRemake/blob/main/netflix02.jpg" alt="Tela 2" width="300">
+  <img src="https://github.com/rique26/NetflixRemake/blob/main/netflix01.jpg" alt="Tela 1" width="400">
+  <img src="https://github.com/rique26/NetflixRemake/blob/main/netflix02.jpg" alt="Tela 2" width="400">
 </p>
 
 
