@@ -12,7 +12,7 @@ O objetivo deste projeto foi aprender e aplicar conceitos de prototipagem, model
 - Comunicação com a UI Thread e exibição de dados dinâmicos.
 
 
-<img src="imagens/netflix01.jpg" alt="Tela Inicial" width="400">
+<img src="https://github.com/rique26/NetflixRemake/blob/main/netflix01.jpg" alt="Tela Inicial" width="400">
 
 
 
