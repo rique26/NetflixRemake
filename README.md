@@ -10,3 +10,6 @@ O objetivo deste projeto foi aprender e aplicar conceitos de prototipagem, model
 - Implementação de carrosséis de filmes com RecyclerView.
 - Download de imagens e uso de placeholders.
 - Comunicação com a UI Thread e exibição de dados dinâmicos.
+
+
+https://github.com/rique26/NetflixRemake/blob/main/netflix01.jpg
